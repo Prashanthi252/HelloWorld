@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="email"><b>Email ID</b></label>
+    <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Your Email" name="email" required>
 
     <label for="psw"><b>Password</b></label>
