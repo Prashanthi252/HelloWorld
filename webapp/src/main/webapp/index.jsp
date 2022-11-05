@@ -11,7 +11,7 @@
     <input type="password" placeholder="Enter Password" name="psw" required>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
+    <input type="password" placeholder="Entera a Password" name="psw" required>
     <label>
       <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
     </label>
